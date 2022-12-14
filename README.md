@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shanu2092
 - 👀 I’m interested in Artificial Intelligence,Machine Learning Deep Learning,Computer Vision,NLP
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Golang
 - 💞️ I’m looking to collaborate on Ml,AI
 - 📫 How to reach me karnabhinav2000@gmail.com
 
